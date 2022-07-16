@@ -25,19 +25,4 @@ Skills: Flutter / wordpress / Dart / JAVA / HTML/CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bdkoder360)  
 
 ![Profile views](https://gpvc.arturio.dev/bdkoder360)  
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/bdkoder rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-253b30dd-7c2b-46ff-9c2f-e919d394da5e' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >bdkoder</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hey i am an app devloper & also an wordpress web devloper.i can devlop any kind of app what you want.i can create wordpress api connected app & various kind </div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-253b30dd-7c2b-46ff-9c2f-e919d394da5e' src='https://widgets.fiverr.com/api/v1/seller/bdkoder?widget_id=253b30dd-7c2b-46ff-9c2f-e919d394da5e' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
