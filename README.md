@@ -2,7 +2,6 @@
 
 A passionate Flutter and WordPress developer from Bangladesh. I love to learn new things related to technology and Islam. I take pride in my religion.
 
-![I am a Flutter & Wordpress developer](https://media-exp1.licdn.com/dms/image/C5616AQGo8yKValKMMg/profile-displaybackgroundimage-shrink_200_800/0/1645456563262?e=1651104000&v=beta&t=kEzC4SV3ZPksgG6o7dNXf5F3YWjOMLdnOJbKOs_Dvvk)
 
 Skills: Flutter / WordPress / Dart / Java / HTML/CSS
 
@@ -23,15 +22,3 @@ Skills: Flutter / WordPress / Dart / Java / HTML/CSS
 [![Website](https://img.shields.io/badge/-Website-white?style=flat&logo=icloud)](www.fastvai.com)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-blue?style=flat&logo=dart)](https://dribbble.com/bdkoder360)
 
-🚀 GitHub Stats:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bdkoder360&show_icons=true)
-
-📈 GitHub Metrics:
-
-![GitHub metrics](https://metrics.lecoq.io/bdkoder360)
-
-
-👀 Profile Views:
-
-![Profile views](https://gpvc.arturio.dev/bdkoder360)
